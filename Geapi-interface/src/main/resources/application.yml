@@ -1,0 +1,15 @@
+
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+geapi:
+  client:
+    access-key: madou
+    secret-key: madou123
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://119.23.253.233:3306/interface_api
+    username: pickle1
+    password: 666233
